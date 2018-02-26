@@ -1,4 +1,4 @@
-## BlindNebula
+## BlindNebula ![](https://img.shields.io/badge/Alakajam-%232-red.svg)
 
 ![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/screen1.jpg?raw=true)
 
@@ -34,5 +34,3 @@ Construct 2
 "UK English Female" voice was used
 
 ![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/screen4.jpg?raw=true)
-
-## Thanks for playing!
