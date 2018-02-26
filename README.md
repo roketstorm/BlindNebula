@@ -1,4 +1,4 @@
-## BlindNebula ![](https://img.shields.io/badge/Alakajam-%232-red.svg)
+## BlindNebula ![](https://img.shields.io/badge/Alakajam-%232-red.svg) ![](https://img.shields.io/badge/Made%20in-48%20hours-brightgreen.svg)
 
 ![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/screen1.jpg?raw=true)
 
