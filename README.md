@@ -1,6 +1,16 @@
 ## BlindNebula ![](https://img.shields.io/badge/Alakajam-%232-red.svg) ![](https://img.shields.io/badge/Made%20in-48%20hours-brightgreen.svg)
 
+![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/alakajam1.jpg)
+
+![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/alakajam2.jpg)
+
+![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/alakajam0.jpg)
+
+---
+
 [PLAY (HTML5)](http://rocketstorm.me/BlindNebula/) | [PLAY (Desktop)](https://github.com/RocketStormNet/BlindNebula/releases) | [Alakajam #2 Page](https://alakajam.com/2nd-alakajam/123/blindnebula/)
+
+---
 
 ![](https://github.com/RocketStormNet/BlindNebula/blob/master/screenshots/screen1.jpg?raw=true)
 
